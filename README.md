@@ -131,3 +131,15 @@ Actual time savings and organizational performance improvements have not been me
 **Core functionality completed and tested.**
 
 Both workflow scenarios are saved in Make.com. Continuous operation and production deployment are outside the scope of this portfolio demonstration.
+
+
+
+
+
+## Workflow Screenshots
+
+### Equipment Request Intake
+![Equipment Request Intake](screenshots/equipment-request-intake.png)
+
+### Manager Approval Processing
+![Manager Approval Processing](screenshots/manager-approval-processing.png)
